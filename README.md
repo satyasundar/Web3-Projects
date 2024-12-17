@@ -9,6 +9,7 @@ https://github.com/satyasundar/workshop-node-template
 
 ## Interchain Academy (cosmos)
 (backend)   https://github.com/satyasundar/ida-checkers-docker
+
 (frontend)  https://github.com/satyasundar/ida-checkers-ui
 
 ## Solidity Learning
